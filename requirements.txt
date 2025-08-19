@@ -1,0 +1,45 @@
+# GenIIoT: Generative Adversarial Networks Aided Proactive Fault Management
+# Requirements file for Python dependencies
+
+# Core Machine Learning Libraries
+numpy>=1.19.0
+pandas>=1.2.0
+scikit-learn>=0.24.0
+
+# Class Imbalance Handling
+imbalanced-learn>=0.8.0
+
+# Data Visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Deep Learning and GAN Support (Optional)
+tensorflow>=2.4.0
+keras>=2.4.0
+
+# Additional Utilities
+scipy>=1.7.0
+joblib>=1.1.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Data Processing
+openpyxl>=3.0.0
+xlrd>=2.0.0
+
+# Model Persistence
+pickle-mixin>=1.0.2
+
+# Optional: GPU Support for TensorFlow
+# tensorflow-gpu>=2.4.0  # Uncomment if using NVIDIA GPU with CUDA
+
+# Optional: Advanced GAN Libraries
+# pytorch>=1.8.0  # Alternative to TensorFlow for GAN experiments
+# torchvision>=0.9.0
+
+# Development and Testing (Optional)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
