@@ -365,5 +365,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Ensure reproducibility of research results
 
 ---
+==
 
 **Note**: This project is for research and educational purposes. Please ensure compliance with local regulations when deploying predictive maintenance systems in real-world industrial applications.
